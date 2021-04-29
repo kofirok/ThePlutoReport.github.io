@@ -8,7 +8,7 @@ function preload(){
   img1 = loadImage('assets/clock.jpg');
   img2 = loadImage('assets/garden.jpg');
   img3 = loadImage('assets/grass.jpg');
-  //sound = loadSound('assets/water.mp3');
+  sound = loadSound('assets/water.mp3');
   //stuff to prepare gets done here
 }
 
