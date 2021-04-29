@@ -5,9 +5,9 @@ let img3;
 
 
 function preload(){
-  img1 = loadImage('assets/stone.jpg');
-  img2 = loadImage('assets/hxh.jpg');
-  img3 = loadImage('assets/demon sl.jpg');
+  img1 = loadImage('assets/apartments.jpg');
+  img2 = loadImage('assets/clock.jpg');
+  img3 = loadImage('assets/garden.jpg');
   
   //stuff to prepare gets done here
 }
