@@ -2,7 +2,7 @@
 let img1;
 let img2;
 let img3;
-let sound;
+
 
 function preload(){
   img1 = loadImage('assets/clock.jpg');
@@ -25,12 +25,3 @@ function draw() {
   //think of this area as a looping function that continuall puts things on screen, in order
 }
 
-function mousePressed() {
-  //what happens when I click?
-  if (sound.isPlaying()) {
-    sound.stop();
-  }
-  else {
-    sound.play();
-    }
-  }
