@@ -1,5 +1,5 @@
-To access the website click the link on the right or copy and paste this link into your browser 
-
-
 [The Pluto Report](kofirok.github.io/animeWebsite/)
 
+<p align="center">
+  <img src="images/favicon.png" alt="ThePlutoReport" width="300"/>
+</p>
